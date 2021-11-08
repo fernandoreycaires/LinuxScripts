@@ -1,3 +1,3 @@
 # LinuxScripts
 
-Scripts para automação de tarefas linux
+Scripts para estudo e automação de tarefas linux
